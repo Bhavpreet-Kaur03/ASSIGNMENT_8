@@ -895,7 +895,7 @@ def main():
             Built with cutting-edge AI & Machine Learning Technology
         </p>
         <p style="margin-bottom: 0.5rem;">
-            💎 Crafted with passion by <strong>Diya Agnihotri</strong>
+            💎 Crafted with passion by <strong>BHAVPREET KAUR</strong>
         </p>
         <p style="color: rgba(255,255,255,0.7); font-size: 0.9rem;">
             Powered by Streamlit • XGBoost • Advanced RAG • Optimized for GitHub
